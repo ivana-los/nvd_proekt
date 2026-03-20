@@ -1,0 +1,48 @@
+[33mcommit 780512b17058065996afc45c21daf6626972b6a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 233187 <ivana.nedevska@students.finki.ukim.mk>
+Date:   Sat Mar 14 16:52:17 2026 +0100
+
+    Dodaden login page
+
+[33mcommit 56f125aaed02b446b28494dd95933a43d7760b03[m
+Author: Bojana Kostoska <bojana.kostoska@students.finki.ukim.mk>
+Date:   Fri Mar 6 19:00:46 2026 +0100
+
+    sdaasdasd
+
+[33mcommit 743f40fa8b8517e105c0e77b3a802bfcaea5b21d[m
+Author: 233187 <ivana.nedevska@students.finki.ukim.mk>
+Date:   Fri Mar 6 18:47:33 2026 +0100
+
+    dodadovv
+
+[33mcommit 4091afb631cfd841cacdced5df8e2ca278c4a9a7[m
+Merge: dc12a4f 46a95a5
+Author: 233187 <ivana.nedevska@students.finki.ukim.mk>
+Date:   Fri Mar 6 18:45:53 2026 +0100
+
+    Merge branch 'master' of https://github.com/ivana-los/nvd_proekt
+
+[33mcommit dc12a4f6087490ec2721cd643162ccb16a89c757[m
+Author: 233187 <ivana.nedevska@students.finki.ukim.mk>
+Date:   Fri Mar 6 18:44:30 2026 +0100
+
+    Naslovce
+
+[33mcommit 46a95a5d99bca4dcfe4bbd1cff7c844308e37132[m
+Author: PetarFiliposki <peckooo460@gmail.com>
+Date:   Fri Mar 6 18:42:06 2026 +0100
+
+    ova e vtor commit
+
+[33mcommit ae52eb7ac11d7eeae71f5f28f7a9e3ea953c8499[m
+Author: PetarFiliposki <peckooo460@gmail.com>
+Date:   Fri Mar 6 18:35:15 2026 +0100
+
+    Dodadena nova funkcija
+
+[33mcommit a7d1cf95e9a9c7098f3b2527022c38d39504b4cc[m
+Author: 233187 <ivana.nedevska@students.finki.ukim.mk>
+Date:   Fri Mar 6 17:53:43 2026 +0100
+
+    pocetna app

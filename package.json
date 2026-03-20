@@ -10,20 +10,18 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^6.2.1",
-    "svelte": "^5.45.2",
-    "vite": "^8.0.0-beta.13"
-  },
-  "overrides": {
-    "vite": "^8.0.0-beta.13"
+    "svelte": "^5.45.2"
   },
   "dependencies": {
     "axios": "^1.13.6",
     "body-parser": "^2.2.2",
+    "chart.js": "^4.5.1",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "mkcert": "^3.2.0",
     "node-fetch": "^3.3.2",
+    "svelte-chartjs": "^4.0.1",
     "svelte-spa-router": "^4.0.1"
   },
   "description": "This template should help get you started developing with Svelte in Vite.",
