@@ -1,6 +1,6 @@
 // src/services/spotify.js
 const client_id = "c8662d46c73e45d1bdb2651fd7e84677";
-const redirect_uri = "http://127.0.0.1:8000/callback";
+const redirect_uri = "http://localhost:5173/callback";
 const scope = "user-read-private user-read-email";
 
 export function loginSpotify() {
